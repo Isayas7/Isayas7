@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isayas</h1>
-<h3 align="center">A passionate for full stack(MERN) developer from Ethiopia</h3>
+<h3 align="center">I'm a passionate full-stack (MERN) developer from Ethiopia.</h3>
 
 - 🌱 I’m currently learning **ui/ux design**
 
